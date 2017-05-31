@@ -21,7 +21,24 @@
 <p align="center">
   <img src="https://github.com/danisluis6/Android-External-Libraries/blob/master/SourcesCode/1.png">
 </p>
-	- B: 
+	- B: Create AbstractClass
+		- For example: AbstractUser
+<p align="center">
+  <img src="https://github.com/danisluis6/Android-External-Libraries/blob/master/SourcesCode/2.png">
+</p>
+	- C: Domain [Process will be placed in client]
+		- Extends AbstractUser: Teacher and parent
+<p align="center">
+  <img src="https://github.com/danisluis6/Android-External-Libraries/blob/master/SourcesCode/3.png">
+</p>
+		- Using available interface to create new interface => Get value from 			interface
+<p align="center">
+  <img src="https://github.com/danisluis6/Android-External-Libraries/blob/master/SourcesCode/4.png">
+</p>
+
+
+		
+
 
 
 
